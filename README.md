@@ -1,7 +1,7 @@
 # Sobel edge detection filter using CUDA to enhance the performance of image processing tasks
 
 ### EX. NO: 03
-### ENTER YOUR NAME: HEMASONICA P
+### ENTER YOUR NAME: KARNAN K
 ### REGISTER NO: 212222230062
 ### DATE:
 
